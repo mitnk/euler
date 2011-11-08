@@ -2,8 +2,8 @@
 
 main()
 {
-    unsigned long long i;
-    unsigned long long step = 2 * 3 * 5 * 7 * 11 * 13 * 17 * 19;
+    int i;
+    int step = 2 * 3 * 5 * 7 * 11 * 13 * 17 * 19;
     for (i = step; ; i += step)
     {
         if (i % 4 == 0 && \
@@ -19,5 +19,5 @@ main()
             i % 20 == 0)
             break;
     }
-    printf("%lld\n", i);
+    printf("%d\n", i);
 }
