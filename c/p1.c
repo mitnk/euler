@@ -1,3 +1,6 @@
+// Problem 1 of Project Euler
+// Find the sum of all the multiples of 3 or 5 below 1000.
+
 #include <stdio.h>
 
 int sum_of_35(int max)

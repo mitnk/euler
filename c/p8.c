@@ -1,3 +1,7 @@
+// Problem 8 of Project Euler
+// Find the greatest product of five consecutive digits 
+// in the 1000-digit number. 
+
 #include <stdio.h>
 #include <string.h>
 

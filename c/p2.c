@@ -1,3 +1,8 @@
+// Problem 2 of Project Euler
+// By considering the terms in the Fibonacci sequence whose 
+// values do not exceed four million, 
+// find the sum of the even-valued terms.
+
 #include <stdio.h>
 
 int sum_of_even(int max)

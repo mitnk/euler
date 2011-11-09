@@ -1,4 +1,6 @@
-#include <assert.h>
+// Problem 3 of Project Euler
+// What is the largest prime factor of the number 600851475143
+
 #include <stdio.h>
 
 int is_prime(unsigned long long n)

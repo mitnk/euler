@@ -1,3 +1,6 @@
+// Problem 7 of Project Euler
+// What is the 10 001st prime number?
+
 #include <stdio.h>
 
 main()
