@@ -3,3 +3,4 @@ settings.py
 *.pid
 *.log
 *.out
+*.beam
