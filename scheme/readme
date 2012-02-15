@@ -1,0 +1,15 @@
+==Install Scheme (Racket)==
+
+Downloads Racket from here:
+http://www.racket-lang.org/
+
+==How to Run Racket on Mac OS X==
+
+1. Add a soft link of racket
+
+    $ ln -s /Applications/Racket v5.2.1/bin/racket /usr/local/bin/racket
+
+2. Run commands at Terminal:
+
+    $ racket p001.scm
+

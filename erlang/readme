@@ -1,1 +1,13 @@
-Hit from http://code.google.com/p/eulererlang/
+==How to Run Erlang Programs==
+
+a)
+$ erlc p001.erl
+$ erl
+1> p001:solution().
+
+b)
+$ erl
+1> c(p001).
+{ok, p001}
+2> p001:solution().
+
